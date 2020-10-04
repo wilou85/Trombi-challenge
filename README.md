@@ -1,1 +1,1 @@
-Version static: https://projetcapsule.herokuapp.com/
+Version statique: https://projetcapsule.herokuapp.com/
